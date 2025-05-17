@@ -1,2 +1,5 @@
 # repository_practice
-G's ACADEMYリポジトリ作成練習用
+
+G's ACADEMY リポジトリ作成練習用
+
+##がんばれー
